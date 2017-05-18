@@ -1,0 +1,10 @@
++ ssd가 어떻게 page 또는 block을 관리하고 있는지 구조를 확인하고 그렇게 하는 이유를 정리
+1. A Methodology for Extracting Performance Parameters in Solid State Disks (SSDs)
+2. Design Tradeoffs for SSD Performance
+3. The performance of PC solid-state disks (SSDs) as a function of bandwidth, concurrency
+
++ 쓰기 버퍼 정책이 어떠한 것들이 있는지 확인
+4. BPLRU: A Buffer Management Scheme for Improving Random Writes in Flash Storage
+
++ OOB 영역의 역할 정리
+5. SHRD: Improving Spatial Locality in Flash Storage Accesses by Sequentializing in Host and Randomizing in Device
